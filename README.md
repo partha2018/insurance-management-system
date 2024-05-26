@@ -19,7 +19,7 @@
 ![alt text](docs/images/structure.png)
 
 ## Documentation
-[Technical Report](https://github.com/rjrahul24/Prediction-of-Insurance-Payments-for-Surgical-Procedures/blob/rahul-feature-branch/docs/J%26J_Tong_%20Insurance_Prediction_1st_report.docx.pdf)
+[Technical Report](https://github.com/partha2022/insurance-management-system/blob/main/docs/Capstone_Final%20_Project_Notes%20Report_Parthasarathi.pdf)
 
 ## Instructions for Project Setup
 Please run the following jupyter notebooks in sequence:
@@ -30,25 +30,8 @@ Please run the following jupyter notebooks in sequence:
 ## Credits
 
 ### Authors
-- Rahulraj Singh -  Team Captain [`rs4211@columbia.edu`]
-- Prerit Jain [`pj2383@columbia.edu`]
-- Mahesh Jindal [`mj3038@columbia.edu`]
-- Parth Gupta [`pg2677@columbia.edu`]
-- Ayush Baral [`ab5247@columbia.edu`]
+- Parthasarathi Swain
 
-
-### Sponsors/Mentors (J&J Team)
-- Cindy Tong - Project Lead and Domain Expert
-- Ziyu Tan - Technical Expert and go-to person for DataRobot
-- Katherine Etter - Mentor and Knowledge Expert 
-
-
-### Instructor
-Adam S. Kelleher [`ak4063@columbia.edu`]
-
-
-### CA
-Xuanyu Li [`xl3116@columbia.edu`]
 
 
 [1]: https://img.shields.io/travis/yoshuawuyts/github-standard-labels/master.svg?style=flat-square
